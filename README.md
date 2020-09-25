@@ -1,1 +1,0 @@
-# Gerrymandering-Game-with-Snap
